@@ -1,0 +1,5 @@
+#indexBox{
+    box-sizing: border-box;
+    padding: 5%;
+    border: 1px solid black;
+}
